@@ -1,31 +1,42 @@
 \resheading{项目经历}
   \begin{itemize}[leftmargin=*]
     \item
-      \ressubsingleline{高速交通大数据分析}{路网中心}{2018.06 -- 2018.09}
+      \ressubsingleline{高速交通大数据分析}{路网中心}{2018.11 -- 2019.01}
       {\small
       \begin{itemize}
-        \item 搭建hadoop分布式集群存储环境，对路网中心上传的\textbf{月数据量达200G}全国收费站数据进行落地存储管理
+        \item 搭建hadoop分布式集群存储环境，对路网中心上传的\textbf{月数据量达500G}全国收费站数据进行落地存储管理
         \item 在交易数据记录中按属性进行聚类，检测出离群点，并将这部分离群点数据的信息完整杜进行评估，过滤出存在逃费的异常行为记录%
         \item 利用spark等大数据工具，对交易数据进行分析，生成不同省份的出行基本特征、区域运输特征以及通行费用基本特征的画像
       \end{itemize}
       }
-    \item
-      \ressubsingleline{论文发表}{Deep Learning based Energy-efficient Computational offloading in IOV}{2018.01 -- 2018.06}
-      {\small
+%    \item
+%      \ressubsingleline{论文发表}{Deep Learning based Energy-efficient Computational offloading in IOV}{2018.01 -- 2018.06}
+%      {\small
+%      \begin{itemize}
+%        \item 参与完成论文的idea模型的构建
+%        \item 参与完成论文的仿真实验部分，利用pythorch搭建CNN模型进行训练
+%        \item 参与完成论文的Related work 和 Experiments 部分撰写
+%        \item 投稿China Communication(已录用)
+%      \end{itemize}
+%      }
+	\item
+	  \ressubsingleline{高速路链数据拓扑分析}{Java/路网中心}{2018.11 -- 2019.01}
+	  {\small
       \begin{itemize}
-        \item 参与完成论文的idea模型的构建
-        \item 参与完成论文的仿真实验部分，利用pythorch搭建CNN模型进行训练
-        \item 参与完成论文的Related work 和 Experiments 部分撰写
-        \item 投稿China Communication(已录用)
+      	\item 对“路链"对象进行抽象封装，采用双向链表的数据结构
+        \item 读取mapinfo文件生成路链拓扑结构
+        \item 依据经纬度信息,将某省所有收费站映射到路链
+        \item 依据路链拓扑信息，采用Dijkstra计算高速收费站间最短路链集合、距离及行驶时间
+        \item 依据路链拓扑信息和站间流量，标识高速关键路段
       \end{itemize}
       }
     \item
-      \ressubsingleline{数据可视化网站搭建}{Python/后端开发}{2017.10 -- 2018.01}
+      \ressubsingleline{数据可视化网站搭建}{Python/后端}{2019.01 -- 2019.02}
       {\small
       \begin{itemize}
       	\item 基于高速交通大数据的分析结果完成数据可视化
         \item 后端采用Django框架，通过对数据库的增删查为前端提供数据请求接口
-        \item 前端采用Echarts框架，采用ajax对后台的数据对div进行异步加载渲染
+        \item 前端采用Echarts框架，对后台的数据加载渲染
       \end{itemize}
       }
   \end{itemize}

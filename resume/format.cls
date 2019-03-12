@@ -34,7 +34,8 @@
 \definecolor{mygrey}{gray}{.9}
 \definecolor{mygreylink}{gray}{.30}
 \definecolor{labelgrey}{gray}{.50}
-\definecolor{myblue}{RGB}{176,196,222}
+% \definecolor{myblue}{RGB}{176,196,222}
+\definecolor{myblue}{RGB}{210,241,255}
 
 \raggedbottom
 \raggedright
