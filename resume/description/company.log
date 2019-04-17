@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99999 (MiKTeX 2.9.6930 64-bit) (preloaded format=xelatex 2019.3.6)  12 MAR 2019 20:48
+This is XeTeX, Version 3.14159265-2.6-0.99999 (MiKTeX 2.9.6930 64-bit) (preloaded format=xelatex 2019.3.6)  17 APR 2019 16:54
 entering extended mode
 **./company.tex
 (company.tex
@@ -152,7 +152,7 @@ Type  H <return>  for immediate help.
  ...                                              
                                                   
 l.7         \item 搭
-                   建hadoop分布式集群存储环境，对路网中心上传的\textbf{月数据量达500G}全国收费站数据进行落地存储管理
+                   建hadoop分布式集群存储环境，对路网中心上传的\textbf{月数据量达500G}全国收费站数据进行存储管理
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
@@ -196,8 +196,6 @@ Missing character: There is no 数 in font nullfont!
 Missing character: There is no 据 in font nullfont!
 Missing character: There is no 进 in font nullfont!
 Missing character: There is no 行 in font nullfont!
-Missing character: There is no 落 in font nullfont!
-Missing character: There is no 地 in font nullfont!
 Missing character: There is no 存 in font nullfont!
 Missing character: There is no 储 in font nullfont!
 Missing character: There is no 管 in font nullfont!
@@ -272,10 +270,6 @@ Missing character: There is no p in font nullfont!
 Missing character: There is no a in font nullfont!
 Missing character: There is no r in font nullfont!
 Missing character: There is no k in font nullfont!
-Missing character: There is no 等 in font nullfont!
-Missing character: There is no 大 in font nullfont!
-Missing character: There is no 数 in font nullfont!
-Missing character: There is no 据 in font nullfont!
 Missing character: There is no 工 in font nullfont!
 Missing character: There is no 具 in font nullfont!
 Missing character: There is no ， in font nullfont!
@@ -322,6 +316,44 @@ Missing character: There is no 征 in font nullfont!
 Missing character: There is no 的 in font nullfont!
 Missing character: There is no 画 in font nullfont!
 Missing character: There is no 像 in font nullfont!
+Missing character: There is no 。 in font nullfont!
+Missing character: There is no 根 in font nullfont!
+Missing character: There is no 据 in font nullfont!
+Missing character: There is no 分 in font nullfont!
+Missing character: There is no 析 in font nullfont!
+Missing character: There is no 结 in font nullfont!
+Missing character: There is no 果 in font nullfont!
+Missing character: There is no ， in font nullfont!
+Missing character: There is no 给 in font nullfont!
+Missing character: There is no 出 in font nullfont!
+Missing character: There is no 合 in font nullfont!
+Missing character: There is no 理 in font nullfont!
+Missing character: There is no 的 in font nullfont!
+Missing character: There is no 高 in font nullfont!
+Missing character: There is no 速 in font nullfont!
+Missing character: There is no 收 in font nullfont!
+Missing character: There is no 费 in font nullfont!
+Missing character: There is no 标 in font nullfont!
+Missing character: There is no 准 in font nullfont!
+Missing character: There is no ， in font nullfont!
+Missing character: There is no 并 in font nullfont!
+Missing character: There is no 针 in font nullfont!
+Missing character: There is no 对 in font nullfont!
+Missing character: There is no 不 in font nullfont!
+Missing character: There is no 同 in font nullfont!
+Missing character: There is no 的 in font nullfont!
+Missing character: There is no 费 in font nullfont!
+Missing character: There is no 率 in font nullfont!
+Missing character: There is no 模 in font nullfont!
+Missing character: There is no 拟 in font nullfont!
+Missing character: There is no 推 in font nullfont!
+Missing character: There is no 演 in font nullfont!
+Missing character: There is no 计 in font nullfont!
+Missing character: There is no 算 in font nullfont!
+Missing character: There is no 赢 in font nullfont!
+Missing character: There is no 亏 in font nullfont!
+Missing character: There is no 数 in font nullfont!
+Missing character: There is no 量 in font nullfont!
 ! Undefined control sequence.
 <recently read> \ressubsingleline 
                                   
@@ -421,6 +453,7 @@ Missing character: There is no 拓 in font nullfont!
 Missing character: There is no 扑 in font nullfont!
 Missing character: There is no 结 in font nullfont!
 Missing character: There is no 构 in font nullfont!
+Missing character: There is no ， in font nullfont!
 Missing character: There is no 依 in font nullfont!
 Missing character: There is no 据 in font nullfont!
 Missing character: There is no 经 in font nullfont!
@@ -463,6 +496,8 @@ Missing character: There is no r in font nullfont!
 Missing character: There is no a in font nullfont!
 Missing character: There is no 计 in font nullfont!
 Missing character: There is no 算 in font nullfont!
+Missing character: There is no 不 in font nullfont!
+Missing character: There is no 同 in font nullfont!
 Missing character: There is no 高 in font nullfont!
 Missing character: There is no 速 in font nullfont!
 Missing character: There is no 收 in font nullfont!
@@ -497,6 +532,49 @@ Missing character: There is no 间 in font nullfont!
 Missing character: There is no 流 in font nullfont!
 Missing character: There is no 量 in font nullfont!
 Missing character: There is no ， in font nullfont!
+Missing character: There is no 通 in font nullfont!
+Missing character: There is no 过 in font nullfont!
+Missing character: There is no M in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no 、 in font nullfont!
+Missing character: There is no R in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no 计 in font nullfont!
+Missing character: There is no 算 in font nullfont!
+Missing character: There is no 得 in font nullfont!
+Missing character: There is no 到 in font nullfont!
+Missing character: There is no 每 in font nullfont!
+Missing character: There is no 个 in font nullfont!
+Missing character: There is no 路 in font nullfont!
+Missing character: There is no 链 in font nullfont!
+Missing character: There is no 上 in font nullfont!
+Missing character: There is no 承 in font nullfont!
+Missing character: There is no 载 in font nullfont!
+Missing character: There is no 的 in font nullfont!
+Missing character: There is no 货 in font nullfont!
+Missing character: There is no 运 in font nullfont!
+Missing character: There is no 量 in font nullfont!
+Missing character: There is no 和 in font nullfont!
+Missing character: There is no 通 in font nullfont!
+Missing character: There is no 行 in font nullfont!
+Missing character: There is no 量 in font nullfont!
+Missing character: There is no ， in font nullfont!
+Missing character: There is no 并 in font nullfont!
+Missing character: There is no 对 in font nullfont!
+Missing character: There is no 这 in font nullfont!
+Missing character: There is no 些 in font nullfont!
+Missing character: There is no 路 in font nullfont!
+Missing character: There is no 链 in font nullfont!
+Missing character: There is no 进 in font nullfont!
+Missing character: There is no 行 in font nullfont!
+Missing character: There is no 聚 in font nullfont!
+Missing character: There is no 类 in font nullfont!
+Missing character: There is no 以 in font nullfont!
 Missing character: There is no 标 in font nullfont!
 Missing character: There is no 识 in font nullfont!
 Missing character: There is no 高 in font nullfont!
@@ -508,7 +586,7 @@ Missing character: There is no 段 in font nullfont!
 ! Undefined control sequence.
 <recently read> \ressubsingleline 
                                   
-l.34       \ressubsingleline
+l.33       \ressubsingleline
                             {数据可视化网站搭建}{Python/后端}{2019.01 -- 2019.02}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -551,7 +629,7 @@ Missing character: There is no . in font nullfont!
 Missing character: There is no 0 in font nullfont!
 Missing character: There is no 2 in font nullfont!
 ! Undefined control sequence.
-l.35       {\small
+l.34       {\small
                   
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -596,6 +674,12 @@ Missing character: There is no ， in font nullfont!
 Missing character: There is no 通 in font nullfont!
 Missing character: There is no 过 in font nullfont!
 Missing character: There is no 对 in font nullfont!
+Missing character: There is no 数 in font nullfont!
+Missing character: There is no 据 in font nullfont!
+Missing character: There is no 分 in font nullfont!
+Missing character: There is no 析 in font nullfont!
+Missing character: There is no 结 in font nullfont!
+Missing character: There is no 果 in font nullfont!
 Missing character: There is no 数 in font nullfont!
 Missing character: There is no 据 in font nullfont!
 Missing character: There is no 库 in font nullfont!

@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99999 (MiKTeX 2.9.6930 64-bit) (preloaded format=xelatex 2019.3.6)  7 MAR 2019 15:39
+This is XeTeX, Version 3.14159265-2.6-0.99999 (MiKTeX 2.9.6930 64-bit) (preloaded format=xelatex 2019.3.6)  17 APR 2019 16:34
 entering extended mode
 **./skills.tex
 (skills.tex
@@ -131,8 +131,7 @@ Type  H <return>  for immediate help.
  ...                                              
                                                   
 l.4     \item \textbf
-                     {语言}: Python，Java，\href{https://www.mathworks.com/}{MAT...
-
+                     {语言}: Python，Java
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
@@ -144,8 +143,7 @@ Type  H <return>  for immediate help.
  ...                                              
                                                   
 l.4     \item \textbf
-                     {语言}: Python，Java，\href{https://www.mathworks.com/}{MAT...
-
+                     {语言}: Python，Java
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
@@ -157,8 +155,7 @@ Type  H <return>  for immediate help.
  ...                                              
                                                   
 l.4     \item \textbf
-                     {语言}: Python，Java，\href{https://www.mathworks.com/}{MAT...
-
+                     {语言}: Python，Java
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
@@ -176,97 +173,78 @@ Missing character: There is no J in font nullfont!
 Missing character: There is no a in font nullfont!
 Missing character: There is no v in font nullfont!
 Missing character: There is no a in font nullfont!
-Missing character: There is no ， in font nullfont!
-! Undefined control sequence.
-l.4     \item \textbf{语言}: Python，Java，\href
-                                            {https://www.mathworks.com/}{MAT...
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
 
-Missing character: There is no h in font nullfont!
-Missing character: There is no t in font nullfont!
-Missing character: There is no t in font nullfont!
-Missing character: There is no p in font nullfont!
-Missing character: There is no s in font nullfont!
-Missing character: There is no : in font nullfont!
-Missing character: There is no / in font nullfont!
-Missing character: There is no / in font nullfont!
-Missing character: There is no w in font nullfont!
-Missing character: There is no w in font nullfont!
-Missing character: There is no w in font nullfont!
-Missing character: There is no . in font nullfont!
-Missing character: There is no m in font nullfont!
-Missing character: There is no a in font nullfont!
-Missing character: There is no t in font nullfont!
-Missing character: There is no h in font nullfont!
-Missing character: There is no w in font nullfont!
-Missing character: There is no o in font nullfont!
-Missing character: There is no r in font nullfont!
-Missing character: There is no k in font nullfont!
-Missing character: There is no s in font nullfont!
-Missing character: There is no . in font nullfont!
+! LaTeX Error: Something's wrong--perhaps a missing \item.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.5     \item \textbf
+                     {工具}：VS code，Pycharm，Eclipse具有良好的编写代码习惯
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: Something's wrong--perhaps a missing \item.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.5     \item \textbf
+                     {工具}：VS code，Pycharm，Eclipse具有良好的编写代码习惯
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: Something's wrong--perhaps a missing \item.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.5     \item \textbf
+                     {工具}：VS code，Pycharm，Eclipse具有良好的编写代码习惯
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no 工 in font [lmroman10-bold]:mapping=tex-text;!
+Missing character: There is no 具 in font [lmroman10-bold]:mapping=tex-text;!
+Missing character: There is no ： in font nullfont!
+Missing character: There is no V in font nullfont!
+Missing character: There is no S in font nullfont!
 Missing character: There is no c in font nullfont!
 Missing character: There is no o in font nullfont!
-Missing character: There is no m in font nullfont!
-Missing character: There is no / in font nullfont!
-Missing character: There is no M in font nullfont!
-Missing character: There is no A in font nullfont!
-Missing character: There is no T in font nullfont!
-Missing character: There is no L in font nullfont!
-Missing character: There is no A in font nullfont!
-Missing character: There is no B in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no e in font nullfont!
 Missing character: There is no ， in font nullfont!
-! Undefined control sequence.
-l.4 ...f{https://www.mathworks.com/}{MATLAB}，\href
-                                                  {https://www.latex-project...
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-Missing character: There is no h in font nullfont!
-Missing character: There is no t in font nullfont!
-Missing character: There is no t in font nullfont!
-Missing character: There is no p in font nullfont!
-Missing character: There is no s in font nullfont!
-Missing character: There is no : in font nullfont!
-Missing character: There is no / in font nullfont!
-Missing character: There is no / in font nullfont!
-Missing character: There is no w in font nullfont!
-Missing character: There is no w in font nullfont!
-Missing character: There is no w in font nullfont!
-Missing character: There is no . in font nullfont!
-Missing character: There is no l in font nullfont!
-Missing character: There is no a in font nullfont!
-Missing character: There is no t in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no x in font nullfont!
-Missing character: There is no - in font nullfont!
-Missing character: There is no p in font nullfont!
-Missing character: There is no r in font nullfont!
-Missing character: There is no o in font nullfont!
-Missing character: There is no j in font nullfont!
-Missing character: There is no e in font nullfont!
+Missing character: There is no P in font nullfont!
+Missing character: There is no y in font nullfont!
 Missing character: There is no c in font nullfont!
-Missing character: There is no t in font nullfont!
-Missing character: There is no . in font nullfont!
-Missing character: There is no o in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no a in font nullfont!
 Missing character: There is no r in font nullfont!
-Missing character: There is no g in font nullfont!
-Missing character: There is no / in font nullfont!
-Missing character: There is no L in font nullfont!
-Missing character: There is no T in font nullfont!
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 4.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 4.
-Missing character: There is no T in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no ， in font nullfont!
 Missing character: There is no E in font nullfont!
-Missing character: There is no X in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no 具 in font nullfont!
+Missing character: There is no 有 in font nullfont!
+Missing character: There is no 良 in font nullfont!
+Missing character: There is no 好 in font nullfont!
+Missing character: There is no 的 in font nullfont!
+Missing character: There is no 编 in font nullfont!
+Missing character: There is no 写 in font nullfont!
+Missing character: There is no 代 in font nullfont!
+Missing character: There is no 码 in font nullfont!
+Missing character: There is no 习 in font nullfont!
+Missing character: There is no 惯 in font nullfont!
 
 ! LaTeX Error: Something's wrong--perhaps a missing \item.
 
@@ -274,8 +252,8 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.5     \item \textbf
-                     {项目/框架}: \href{http://www.numpy.org/}{NumPy}，\href{http...
+l.6     \item \textbf
+                     {项目/框架}: \href{http://hadoop.apache.org/}{Hadoop}，\href...
 
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -287,8 +265,8 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.5     \item \textbf
-                     {项目/框架}: \href{http://www.numpy.org/}{NumPy}，\href{http...
+l.6     \item \textbf
+                     {项目/框架}: \href{http://hadoop.apache.org/}{Hadoop}，\href...
 
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -300,8 +278,8 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.5     \item \textbf
-                     {项目/框架}: \href{http://www.numpy.org/}{NumPy}，\href{http...
+l.6     \item \textbf
+                     {项目/框架}: \href{http://hadoop.apache.org/}{Hadoop}，\href...
 
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
@@ -312,8 +290,88 @@ Missing character: There is no 框 in font [lmroman10-bold]:mapping=tex-text;!
 Missing character: There is no 架 in font [lmroman10-bold]:mapping=tex-text;!
 Missing character: There is no : in font nullfont!
 ! Undefined control sequence.
-l.5     \item \textbf{项目/框架}: \href
-                                   {http://www.numpy.org/}{NumPy}，\href{http...
+l.6     \item \textbf{项目/框架}: \href
+                                   {http://hadoop.apache.org/}{Hadoop}，\href...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no h in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no : in font nullfont!
+Missing character: There is no / in font nullfont!
+Missing character: There is no / in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no / in font nullfont!
+Missing character: There is no H in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no ， in font nullfont!
+! Undefined control sequence.
+l.6 ...ef{http://hadoop.apache.org/}{Hadoop}，\href
+                                                  {http://spark.apache.org/}...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no h in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no : in font nullfont!
+Missing character: There is no / in font nullfont!
+Missing character: There is no / in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no k in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no / in font nullfont!
+Missing character: There is no S in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no k in font nullfont!
+Missing character: There is no ， in font nullfont!
+! Undefined control sequence.
+l.6 ...href{http://spark.apache.org/}{Spark}，\href
+                                                  {http://www.numpy.org/}{Nu...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
 misspelled it (e.g., `\hobx'), type `I' and the correct
@@ -348,7 +406,7 @@ Missing character: There is no P in font nullfont!
 Missing character: There is no y in font nullfont!
 Missing character: There is no ， in font nullfont!
 ! Undefined control sequence.
-l.5 ...: \href{http://www.numpy.org/}{NumPy}，\href
+l.6 ...}，\href{http://www.numpy.org/}{NumPy}，\href
                                                   {https://pandas.pydata.org...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -390,7 +448,7 @@ Missing character: There is no a in font nullfont!
 Missing character: There is no s in font nullfont!
 Missing character: There is no ， in font nullfont!
 ! Undefined control sequence.
-l.5 ...f{https://pandas.pydata.org/}{pandas}，\href
+l.6 ...f{https://pandas.pydata.org/}{pandas}，\href
                                                   {https://www.djangoproject...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -436,87 +494,7 @@ Missing character: There is no g in font nullfont!
 Missing character: There is no o in font nullfont!
 Missing character: There is no ， in font nullfont!
 ! Undefined control sequence.
-l.5 ...tps://www.djangoproject.com/}{Django}，\href
-                                                  {http://hadoop.apache.org/...
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-Missing character: There is no h in font nullfont!
-Missing character: There is no t in font nullfont!
-Missing character: There is no t in font nullfont!
-Missing character: There is no p in font nullfont!
-Missing character: There is no : in font nullfont!
-Missing character: There is no / in font nullfont!
-Missing character: There is no / in font nullfont!
-Missing character: There is no h in font nullfont!
-Missing character: There is no a in font nullfont!
-Missing character: There is no d in font nullfont!
-Missing character: There is no o in font nullfont!
-Missing character: There is no o in font nullfont!
-Missing character: There is no p in font nullfont!
-Missing character: There is no . in font nullfont!
-Missing character: There is no a in font nullfont!
-Missing character: There is no p in font nullfont!
-Missing character: There is no a in font nullfont!
-Missing character: There is no c in font nullfont!
-Missing character: There is no h in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no . in font nullfont!
-Missing character: There is no o in font nullfont!
-Missing character: There is no r in font nullfont!
-Missing character: There is no g in font nullfont!
-Missing character: There is no / in font nullfont!
-Missing character: There is no H in font nullfont!
-Missing character: There is no a in font nullfont!
-Missing character: There is no d in font nullfont!
-Missing character: There is no o in font nullfont!
-Missing character: There is no o in font nullfont!
-Missing character: There is no p in font nullfont!
-Missing character: There is no ， in font nullfont!
-! Undefined control sequence.
-l.5 ...ef{http://hadoop.apache.org/}{Hadoop}，\href
-                                                  {http://spark.apache.org/}...
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-Missing character: There is no h in font nullfont!
-Missing character: There is no t in font nullfont!
-Missing character: There is no t in font nullfont!
-Missing character: There is no p in font nullfont!
-Missing character: There is no : in font nullfont!
-Missing character: There is no / in font nullfont!
-Missing character: There is no / in font nullfont!
-Missing character: There is no s in font nullfont!
-Missing character: There is no p in font nullfont!
-Missing character: There is no a in font nullfont!
-Missing character: There is no r in font nullfont!
-Missing character: There is no k in font nullfont!
-Missing character: There is no . in font nullfont!
-Missing character: There is no a in font nullfont!
-Missing character: There is no p in font nullfont!
-Missing character: There is no a in font nullfont!
-Missing character: There is no c in font nullfont!
-Missing character: There is no h in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no . in font nullfont!
-Missing character: There is no o in font nullfont!
-Missing character: There is no r in font nullfont!
-Missing character: There is no g in font nullfont!
-Missing character: There is no / in font nullfont!
-Missing character: There is no S in font nullfont!
-Missing character: There is no p in font nullfont!
-Missing character: There is no a in font nullfont!
-Missing character: There is no r in font nullfont!
-Missing character: There is no k in font nullfont!
-Missing character: There is no ， in font nullfont!
-! Undefined control sequence.
-l.5 ...href{http://spark.apache.org/}{Spark}，\href
+l.6 ...tps://www.djangoproject.com/}{Django}，\href
                                                   {http://scikit-learn.org//...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -563,7 +541,7 @@ Missing character: There is no r in font nullfont!
 Missing character: There is no n in font nullfont!
 Missing character: There is no ， in font nullfont!
 ! Undefined control sequence.
-l.5 ...p://scikit-learn.org//}{scikit-learn}，\href
+l.6 ...p://scikit-learn.org//}{scikit-learn}，\href
                                                   {https://pytorch.org/}{PyT...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -605,8 +583,8 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.6     \item \textbf
-                     {算法}:熟悉机器学习相关算法 SVM,朴素贝叶斯算法,kNN聚类算法,Apriori算法,决策树生成算法等
+l.7     \item \textbf
+                     {算法}:熟悉机器学习相关算法 SVM,朴素贝叶斯算法,kmeans聚类算法,决策树生成算法等
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
@@ -617,8 +595,8 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.6     \item \textbf
-                     {算法}:熟悉机器学习相关算法 SVM,朴素贝叶斯算法,kNN聚类算法,Apriori算法,决策树生成算法等
+l.7     \item \textbf
+                     {算法}:熟悉机器学习相关算法 SVM,朴素贝叶斯算法,kmeans聚类算法,决策树生成算法等
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
@@ -629,8 +607,8 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.6     \item \textbf
-                     {算法}:熟悉机器学习相关算法 SVM,朴素贝叶斯算法,kNN聚类算法,Apriori算法,决策树生成算法等
+l.7     \item \textbf
+                     {算法}:熟悉机器学习相关算法 SVM,朴素贝叶斯算法,kmeans聚类算法,决策树生成算法等
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
@@ -660,20 +638,13 @@ Missing character: There is no 算 in font nullfont!
 Missing character: There is no 法 in font nullfont!
 Missing character: There is no , in font nullfont!
 Missing character: There is no k in font nullfont!
-Missing character: There is no N in font nullfont!
-Missing character: There is no N in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no s in font nullfont!
 Missing character: There is no 聚 in font nullfont!
 Missing character: There is no 类 in font nullfont!
-Missing character: There is no 算 in font nullfont!
-Missing character: There is no 法 in font nullfont!
-Missing character: There is no , in font nullfont!
-Missing character: There is no A in font nullfont!
-Missing character: There is no p in font nullfont!
-Missing character: There is no r in font nullfont!
-Missing character: There is no i in font nullfont!
-Missing character: There is no o in font nullfont!
-Missing character: There is no r in font nullfont!
-Missing character: There is no i in font nullfont!
 Missing character: There is no 算 in font nullfont!
 Missing character: There is no 法 in font nullfont!
 Missing character: There is no , in font nullfont!
@@ -692,8 +663,8 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.7     \item \textbf
-                     {操作系统}:熟悉Linux下的基本命令，具备在Linux系统下搭建分布式集群的经验
+l.8     \item \textbf
+                     {操作系统}:熟悉Linux下的基本命令，具备在Linux系统下搭建分布式集群的经验 \\
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
@@ -704,8 +675,8 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.7     \item \textbf
-                     {操作系统}:熟悉Linux下的基本命令，具备在Linux系统下搭建分布式集群的经验
+l.8     \item \textbf
+                     {操作系统}:熟悉Linux下的基本命令，具备在Linux系统下搭建分布式集群的经验 \\
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
@@ -716,8 +687,8 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.7     \item \textbf
-                     {操作系统}:熟悉Linux下的基本命令，具备在Linux系统下搭建分布式集群的经验
+l.8     \item \textbf
+                     {操作系统}:熟悉Linux下的基本命令，具备在Linux系统下搭建分布式集群的经验 \\
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
@@ -768,38 +739,38 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.8   \end{itemize}
+l.9   \end{itemize}
                    
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
 
-Overfull \hbox (5.6pt too wide) in paragraph at lines 2--8
+Overfull \hbox (5.6pt too wide) in paragraph at lines 2--9
 []\TU/lmr/bx/n/10 英语
  []
 
 
-Overfull \hbox (5.6pt too wide) in paragraph at lines 2--8
+Overfull \hbox (5.6pt too wide) in paragraph at lines 2--9
 []\TU/lmr/bx/n/10 语言
  []
 
 
-Overfull \hbox (5.901pt too wide) in paragraph at lines 2--8
-[][]
+Overfull \hbox (5.6pt too wide) in paragraph at lines 2--9
+[]\TU/lmr/bx/n/10 工具
  []
 
 
-Overfull \hbox (16.95pt too wide) in paragraph at lines 2--8
+Overfull \hbox (16.95pt too wide) in paragraph at lines 2--9
 []\TU/lmr/bx/n/10 项目/框架
  []
 
 
-Overfull \hbox (5.6pt too wide) in paragraph at lines 2--8
+Overfull \hbox (5.6pt too wide) in paragraph at lines 2--9
 []\TU/lmr/bx/n/10 算法
  []
 
 
-Overfull \hbox (11.2pt too wide) in paragraph at lines 2--8
+Overfull \hbox (11.2pt too wide) in paragraph at lines 2--9
 []\TU/lmr/bx/n/10 操作系统 
  []
 
@@ -811,11 +782,11 @@ Overfull \hbox (11.2pt too wide) in paragraph at lines 2--8
 
  
 Here is how much of TeX's memory you used:
- 16 strings out of 427748
- 258 string characters out of 3150982
+ 11 strings out of 427748
+ 146 string characters out of 3150982
  63491 words of memory out of 3000000
- 4147 multiletter control sequences out of 15000+200000
- 3656 words of font info for 16 fonts, out of 3000000 for 9000
+ 4144 multiletter control sequences out of 15000+200000
+ 3648 words of font info for 15 fonts, out of 3000000 for 9000
  1328 hyphenation exceptions out of 8191
- 17i,3n,12p,343b,129s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 13i,2n,8p,343b,117s stack positions out of 5000i,500n,10000p,200000b,50000s
 No pages of output.
