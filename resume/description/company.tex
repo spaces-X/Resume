@@ -1,15 +1,15 @@
 \resheading{项目经历}
   \begin{itemize}[leftmargin=*]
-    \item
-      \ressubsingleline{高速交通大数据分析}{路网中心}{2018.11 -- 2019.01}
-      {\small
-      \begin{itemize}
-        \item 搭建hadoop分布式集群存储环境，对路网中心上传的\textbf{月数据量达500G}全国收费站数据进行存储管理
-        \item 在交易数据记录中按属性进行聚类，检测出离群点，并将这部分离群点数据的信息完整性进行评估，过滤出存在逃费的异常行为记录%
-        \item 利用spark工具，对交易数据进行分析，生成不同省份的出行基本特征、区域运输特征以及通行费用基本特征的画像。 根据分析结果，给出合理的高速收费标准，并针对不同的费率模拟推演计算赢亏数量
-        \item 依据路链拓扑信息，采用Dijkstra计算不同高速收费站间最短路链集合、距离及行驶时间，路段每日累计承担重量
-      \end{itemize}
-      }
+    % \item
+    %   \ressubsingleline{高速交通大数据分析}{路网中心}{2018.11 -- 2019.01}
+    %   {\small
+    %   \begin{itemize}
+    %     \item 搭建hadoop分布式集群存储环境，对路网中心上传的\textbf{月数据量达500G}全国收费站数据进行存储管理
+    %     \item 在交易数据记录中按属性进行聚类，检测出离群点，并将这部分离群点数据的信息完整性进行评估，过滤出存在逃费的异常行为记录%
+    %     \item 利用spark工具，对交易数据进行分析，生成不同省份的出行基本特征、区域运输特征以及通行费用基本特征的画像。 根据分析结果，给出合理的高速收费标准，并针对不同的费率模拟推演计算赢亏数量
+    %     \item 依据路链拓扑信息，采用Dijkstra计算不同高速收费站间最短路链集合、距离及行驶时间，路段每日累计承担重量
+    %   \end{itemize}
+    %   }
   %  \item
   %    \ressubsingleline{论文发表}{Deep Learning based Energy-efficient Computational offloading in IOV}{2018.01 -- 2018.06}
   %    {\small
@@ -30,8 +30,33 @@
   %       \item 依据路链拓扑信息和站间流量，通过Map、Reduce计算得到每个路链上承载的货运量和通行量，并对这些路链进行聚类以标识高速关键路段
   %     \end{itemize}
   %     }
-    \item 
-      \ressubsingleline{联通信令数据挖掘}{联通/安科院}{2019.03 -- 2019.10}
+
+      \item 
+      \ressubsingleline{大数据基础架构部}{暑期实习/\textbf{美团}}{2020.04 -- 2020.07}
+      {\small
+      \begin{itemize}
+        \item 主要负责OLAP引擎Doris日常开发与维护,Bug解决以及数据接入等工作，并与开源社区同步PR
+        \item 负责业务方 Kafka to Doris任务的上线、下线、更新，熟悉代码后进行Kafka to Doris代码分享
+        \item 实现Hive2Doris脚本改进，通过DB自动识别cluster hadoop队列等信息
+        \item 实现Doris BE启动坏盘检测、类型检查等多个集群的安全性和稳定性保障功能，并推送到社区
+        \item 梳理Doris 处理查询请求的流程（从SQL 到分布式执行计划），并进行一次Doris查询技术分享
+      \end{itemize} 
+      }
+
+      \item 
+      \ressubsingleline{广告数据平台告警服务}{日常实习/\textbf{字节跳动}}{2019.06 -- 2019.08}
+      {\small
+      \begin{itemize}
+        \item 广告数据平台后台ABTest模块对实验组、对照组数据指标进行查询
+        \item 采用孤立森林的方法，进行异常点检测并通过Lark消息对实验人进行报警
+        \item 分析报警后台任务时间较长的原因，并将后台数据库由Druid优化为Redis内存数据库
+        \item 发送消息后响应用户(实验人)的反馈，将误判的实验id加入白名单
+        \item 将原来每15分钟执行的任务，缩短到分钟级
+      \end{itemize} 
+      }
+
+      \item 
+      \ressubsingleline{联通信令数据挖掘}{联通/安科院}{2019.07 -- 2019.12}
       {\small
       \begin{itemize}
         \item 基于联通的手机信令切片数据（80G/天），预处理对基站漂移和基站乒乓切换产生异常数据进行剔除
@@ -41,16 +66,5 @@
         \item 基于联通实时数据(5T/天)（Kafka消费)结合公交智能卡数据，对密集人群区域监控(南锣鼓巷、东直门枢纽)
       \end{itemize}
 
-      }
-    \item 
-      \ressubsingleline{广告数据平台告警服务}{暑期实习/\textbf{字节跳动}}{2019.06 -- 2019.08}
-      {\small
-      \begin{itemize}
-        \item 广告数据平台后台ABTest模块对实验组、对照组数据指标进行查询
-        \item 采用孤立森林的方法，进行异常点检测并通过Lark消息对实验人进行报警
-        \item 分析报警后台任务时间较长的原因，并将后台数据库由Mysql优化为Redis内存数据库
-        \item 发送消息后响应用户(实验人)的反馈，将误判的实验id加入白名单
-        \item 将原来每15分钟执行的任务，缩短到分钟级
-      \end{itemize} 
       }
   \end{itemize}
